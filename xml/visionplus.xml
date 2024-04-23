@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="ABC Australia - [Channel 350].id"><display-name lang="id">ABC Australia - [Channel 350].id</display-name><icon src="https://www.mncvision.id/userfiles/image/channel/channel_350.png"/></channel>
+<channel id="Al Jazeera English - [Channel 331].id"><display-name lang="id">Al Jazeera English - [Channel 331].id</display-name><icon src="https://www.mncvision.id/userfiles/image/channel/channel_331.png"/></channel>
+<channel id="Al Quran Al Kareem - [Channel 93].id"><display-name lang="id">Al Quran Al Kareem - [Channel 93].id</display-name><icon src="https://www.mncvision.id/userfiles/image/channel/channel_93.png"/></channel>
+<channel id="Animax - [Channel 157].id"><display-name lang="id">Animax - [Channel 157].id</display-name><icon src="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png"/></channel>
